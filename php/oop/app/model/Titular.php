@@ -53,7 +53,7 @@ class Titular {
         return sprintf(
             "Nome: %s\nData de Nascimento: %s\nCPF: %s\nEndereço: %s",
             $this->nome,
-            $this->data_nasc,
+            $this->data_nasc->format("d/m/Y"),
             $this->cpf->__toString(),
             $this->endereco->__toString()
         );
