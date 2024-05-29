@@ -1,2 +1,2 @@
-# alura-exon
- Repositório c/ estudos da minha carreira na Exon Sistemas & Consultoria
+Repositório contendo meus estudos na plataforma Alura.
+Com foco em PHP, Laravel, SQL Server e VueJS.
